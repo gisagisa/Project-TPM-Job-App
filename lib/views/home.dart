@@ -9,7 +9,7 @@ import 'package:flutter/widgets.dart';
 import 'package:job/models/job_models.dart';
 import 'package:job/server/job_data_source.dart';
 import 'package:job/data/shared_pref.dart';
-import 'package:job/views/login_page_test.dart';
+import 'package:job/views/login_page.dart';
 
 
 class Home extends StatefulWidget {
